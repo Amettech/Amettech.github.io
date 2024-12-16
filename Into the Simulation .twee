@@ -1,0 +1,942 @@
+:: StoryTitle
+Into the Simulation 
+
+
+:: StoryData
+{
+  "ifid": "8A95EC49-24E7-478B-BE75-465FF3E4F56A",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Beginning",
+  "zoom": 0.6
+}
+
+
+:: Approach the figure {"position":"950,650","size":"100,100"}
+<img src="https://amettech.github.io/final/keeper3.png" style="max-width: 100%;">
+
+As you take slow, cautious steps forward, the whispers shift and then turn into a low, unintelligible hum. The voice sounded eerily familiar but you don't understand why. The figure remains still, but as your steps get closer, you realize it isn’t standing—it’s hovering slightly off the ground. Its form flickering and glitching as though it struggles to exist fully in this reality.
+
+The figure doesn’t move, but its presence fills the air with an oppressive weight. Abruptly, it tilts its head unnaturally, its “face” now inches away from yours. It is fixed on you with its empty, dark holes for eyes that exude a chilling sense of dread you've never experienced. The figure speaks, its voice echoing like a thousand voices in one, declaring,  "ɎØɄ ₳VØłĐɆĐ ₴Ø₥Ɇ ₵ⱧØł₵Ɇ₴. ₩ł₴Ɇ, ØⱤ ₱ɆⱤⱧ₳₱₴ ₣ØØⱠł₴Ⱨ—ł₮ ₥₳₭Ɇ₴ ₦Ø Đł₣₣ɆⱤɆ₦₵Ɇ. ₳ⱠⱠ ₱₳₮Ⱨ₴ ⱠɆ₳Đ ₮Ø ₥Ɇ."
+
+Do you: 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[ask what they mean]]  
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[demand answers]]
+
+
+
+
+:: Approach the mirror {"position":"550,400","size":"100,100"}
+<img src="https://freerangestock.com/sample/94087/person-standing-in-front-of-mirror-in-dark-room.jpg" style="max-width: 100%;">
+
+You feel a shiver run down your spine. The mirrors seem to pulsate, as if alive, and you swear you see movement from the corners of your vision. A soft hum fills the air, almost like a lullaby, but the more you listen, the more you realize it's out of sync—distorted.
+
+As you walk towards the mirror, the reflection seems distorted, as if it’s glitching, showing a version of something that was alien to you. You can feel it watching you, as though they’re waiting for you to do something. 
+
+
+You decide to: 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Examine the mirror]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[hesitation for a bit]]
+
+
+
+:: Beginning {"position":"1325,175","size":"100,100"}
+(text-rotate-x:176)+(text-colour:(hsl:288,0.5446,0.3961,0.85))+(align:"=><=")+(box:"=XXX=")[[enter the simulation]] 
+ 
+ <img src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" style="max-width: 100%;">
+
+
+:: Examine the mirror {"position":"325,525","size":"100,100"}
+<img src="https://amettech.github.io/final/mirror.jpg" style="max-width: 100%;">
+
+You step closer to the mirror, the distorted reflection growing clearer. The glass ripples like water, and the image flickers in and out of focus. What you see isn’t quite right—shadows twist unnaturally, and features blur together, forming something unrecognizable. A pair of eyes stare back at you, but they don't match yours. They seem older, haunted.
+
+The hum grows louder, more erratic. The air feels thick with tension, and the mirror begins to crack along its surface, as if something on the other side is trying to break free. You can't shake the feeling that it's waiting for you to make a move, to unlock whatever it’s hiding.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[turn back around to go leave]]
+
+
+:: Follow the whispers again, hoping they’ll lead somewhere different {"position":"25,300","size":"100,100"}
+<img src="https://theghostinmymachine.com/wp-content/uploads/2015/01/corridor-3744201_1280.jpg" style="max-width: 100%;">
+
+You focus on the whispers, their fragmented words shifting like broken radio signals. You step forward, guided by their sound, but the hallway doesn’t change—it stretches endlessly, the lights flickering in strange patterns. The whispers grow distorted, looping in phrases you think you’ve heard before:
+
+(text-colour:orange)["ƬǶƖⳜ Ⱳ𐤠Ƴ… ƳⰙꓴ’ȴȴ ƑƖƝƊ ƖƬ ǶƸⱤƸ… ⰙⱤ ⱲƖȴȴ ƳⰙꓴ?"]
+
+Suddenly, you find yourself standing back at the same point where you started. The hallway is unchanged, except for a faint static hum now crackling through the air.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Ignore the whispers and press on straight ahead]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Push on straight ahead again, determined to escape]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Follow the whispers again, hoping they’ll lead somewhere different |follow the whispers again, hoping they’ll lead somewhere different]] 
+
+
+:: Follow the whispers, hoping for a clue {"position":"25,425","size":"100,100"}
+<img src="https://theghostinmymachine.com/wp-content/uploads/2015/01/corridor-3744201_1280.jpg" style="max-width: 100%;">
+
+You decide to follow the whispers, you were hoping they will guide you towards an exit. Their cadence is strange, almost rhythmic, pulling you forward like a siren’s call. You strain to hear their words, but they remain fragmented, teasing your understanding.
+As you walk, the hallway begins to shift, bending it further into an endless stretch. The floor ripples beneath your feet, the walls pulsing with faint, glitching patterns. You hear a single phrase emerge from the whispers, chilling and familiar:
+
+(text-colour:orange)["ƬǶƖⳜ ƖⳜ ƝⰙƬ ƬǶƸ ƑƖⱤⳜƬ ƬƖ𐒄Ƹ. ƝⰙⱤ ⱲƖȴȴ ƖƬ ƁƸ ƬǶƸ ȴ𐤠ⳜƬ."]
+
+Ahead, a door materializes out of thin air. You reach for it, but before you can touch the handle, the hallway collapses around you in a cascade of flickering light.
+When the world stabilizes, you find yourself back where you started—the whispers as loud as ever.  You can’t escape this way.
+
+Do you:
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Follow the whispers again, hoping they’ll lead somewhere different]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Follow the whispers, hoping for a clue |follow the whispers, hoping for a clue]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Ignore the whispers and press on straight ahead]]
+
+
+:: Follow the whispers, trying to understand them {"position":"100,175","size":"100,100"}
+<img src="https://theghostinmymachine.com/wp-content/uploads/2015/01/corridor-3744201_1280.jpg" style="max-width: 100%;">
+
+You stop walking and strain to listen to the whispers. The faint hum sharpens into fragmented voices, speaking in broken phrases that barely make sense:
+(text-colour:orange)["ƝⰙƬ ⱤƸ𐤠ȴ… ƑⰙⱤƓⰙƬƬƸƝ… ⱤƸ𐒄Ƹ𐒄ƁƸⱤ…"]
+
+The whispers seem to guide you, pulling you toward a faint light at the end of the hallway. The walls around you begin to shift subtly—cracks appearing and disappearing, textures warping as if the entire space is unstable. You step cautiously forward, but each step feels like it stretches longer than the last, as though time and distance are bending around you.
+
+You finally reach the light, only to find yourself… back where you started. The hallway stretches endlessly in both directions, identical to before, but now it’s different. The walls glitch visibly, shifting between smooth and cracked. The hum is louder, almost oppressive, and the whispers now carry an edge of desperation:
+(text-colour:orange)["ƳⰙꓴ’ⱤƸ ƇȴⰙⳜƸ… ƁꓴƬ ⱲⱤⰙƝƓ Ꝓ𐤠ƬǶ…"]
+
+Do you:
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Follow the whispers again, hoping they’ll lead somewhere different]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Ignore the whispers and press on straight ahead]]
+
+
+:: Ignore the changes and press on straight ahead {"position":"400,350","size":"100,100"}
+<img src="https://images.stockcake.com/public/7/c/2/7c23ba42-89ae-4449-b37d-513870532d7a_medium/dark-corridor-mystery-stockcake.jpg" style="max-width: 100%;">
+
+You shake off the eerie sensation, refusing to let the whispers distract you. Fixing your gaze straight ahead, you quicken your pace to get to the end of the hallway. You started to realize  the hallway still seems to be endless more matter how far you have walken.
+
+The hum intensifies, and the flickering lights seem to grow dimmer, but you press on. After what feels like an eternity, you notice a figure standing far ahead—a dark silhouette, perfectly still and blocking your path.
+
+As you draw closer, the figure steps forward. Its form flickers, glitching in and out of the faint light.
+(text-colour:#a61e4d)["ɎØɄ'VɆ ₵ⱧØ₴Ɇ₦ ₱ɆⱤ₴ł₴₮Ɇ₦₵Ɇ,"] it says, its voice resonating with unnatural clarity. (text-colour:#a61e4d)["฿Ʉ₮ ₱ɆⱤ₴ł₴₮Ɇ₦₵Ɇ ₩ł₮ⱧØɄ₮ Ʉ₦ĐɆⱤ₴₮₳₦Đł₦₲ ł₴ ₣Ʉ₮łⱠɆ."]
+
+Do you:
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Approach the figure]]
+
+
+
+:: Ignore the whispers and press on straight ahead {"position":"150,300","size":"100,100"}
+<img src="https://theghostinmymachine.com/wp-content/uploads/2015/01/corridor-3744201_1280.jpg" style="max-width: 100%;">
+
+You shake off the whispers, choosing to ignore their taunts and press forward. The hallway seems to ripple unnaturally with each step, as though the space itself is trying to stop you. The lights flicker violently, casting momentary shadows that don’t belong to you.
+
+You walk faster, determined to outrun the oppressive stillness, but after several minutes of walking, you see something ahead—a figure standing at the far end. You blink, and it vanishes.
+
+When you glance around, you realize you’re back where you started, the whispers creeping back into your ears, louder this time.
+
+Do you:
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Push on straight ahead again, determined to escape]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Follow the whispers, hoping for a clue]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Ignore the whispers and press on straight ahead |ignore the whispers and press on straight ahead]] 
+
+
+:: Push on straight ahead again, determined to escape {"position":"175,425","size":"100,100"}
+<img src="https://theghostinmymachine.com/wp-content/uploads/2015/01/corridor-3744201_1280.jpg" style="max-width: 100%;">
+
+You grit your teeth and push forward, your frustration boiling over. The hallway flickers wildly, and the hum shifts into a low roar, vibrating through the air. The doors lining the hallway begin to glitch, momentarily disappearing before snapping back into place.
+
+Despite the chaos, you keep walking, determined to find the end. But the farther you go, the more the hallway twists. The walls begin to bend inward, the floor buckling beneath your feet. Finally, with one last desperate step, you…
+
+...find yourself back at the beginning. The whispers greet you again, mocking and familiar. The loop remains unbroken.
+
+Do you:
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Follow the whispers, hoping for a clue]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Push on straight ahead again, determined to escape |push on straight ahead again, determined to escape]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Ignore the whispers and press on straight ahead]]
+
+
+:: Step back, deciding it’s safer to leave it closed {"position":"550,275","size":"100,100"}
+<img src="https://amettech.github.io/final/hallway5.png" style="max-width: 100%;">
+
+You hesitate, a gut feeling telling you not to open the door. The chill in the air intensifies, but you decide that investigating it might be too risky and you’re not ready to face whatever might be behind the door. You choose to keep moving down the hallway, hoping that further exploration will bring you closer to answers
+You begin to feel an overwhelming sense of being watched, and a voice suddenly echoes through the hallway:
+
+(text-colour:cyan)["ሃꝊ፱ ር𐌀ክ’ፕ ቹ𐌔ር𐌀የ𐌄. ቹᕓቹ𐌐ሃ ር𐋅ዐ𐌉ር𐌄 𐌁ዪ𐌉ክᏵነ ሃꝊ፱ ር𐌋ዐ𐌔ቹ𐌐 𐌕ዐ ፕ𐋅ቹ ፕ𐌐፱𐌕ⶴ ል𐌍ጋ ፕꝊ 𐌌ቹ."]
+
+The air in the hallway grows heavier, colder, as if the act of turning away has changed something. The faint buzzing hum seems to shift in tone, now resembling low whispers, indistinct but insistent. You glance down the hallway, the dim light ahead flickering erratically.
+
+The hallway started to stretch unnaturally again, but this time, you’re not running. With every step, the light around you seems to dim further, until the shadows gather and form into a shape—a figure standing still in the center of the hallway.
+
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Approach the figure]] 
+
+
+:: Try to run, desperate to escape {"position":"475,575","size":"100,100"}
+<img src="https://i.pinimg.com/736x/75/81/c1/7581c1732c8cfff69b7c6059099d9a59.jpg" style="max-width: 100%;">
+
+https://images.pexels.com/photos/796545/pexels-photo-796545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+
+You turn and sprint in the opposite direction, desperate to avoid whatever lies at the end of the hallway. The air feels thick, and suddenly, you hear it—whispers, faint at first, then growing louder, more insistent. They seem to echo from every corner of the room, twisting around you like a living presence.
+
+You slow down, caught between fear and curiosity. The whispers pull at you, their meaning just out of reach, like a puzzle you’re desperate to solve.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Follow the whispers, trying to understand them]] 
+
+
+:: Turn and run the other way {"position":"1150,400","size":"100,100"}
+<img src="https://images.pexels.com/photos/7451946/pexels-photo-7451946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" style="max-width: 100%;">
+
+You sprint as fast as you can, the hallway stretches unnaturally, twisting and contorting as it defies logic. The whispers seem to follow, chasing you, echoing every step you take. Suddenly, the floor trembles beneath your feet and then, with a deafening crack, the floor collapses beneath you, and you plummet into a dark void. As the wind rushes past you as you fall, you hear a voice pierces the void, calm and deliberate, yet laced with an unsettling edge:
+
+"ⱤɄ₦₦ł₦₲ ₴ØⱠVɆ₴ ₦Ø₮Ⱨł₦₲. ₳ⱠⱠ ₱₳₮Ⱨ₴ ⱠɆ₳Đ ฿₳₵₭ ₮Ø ₥Ɇ."
+
+You finally land softly in a circular room, the whispers silenced. In the center of the room, a single glowing object rests on a pedestal. You approach the pedestal, each step slow and deliberate. The object before you pulses with an ethereal glow, casting long shadows that seem to stretch and writhe across the floor. It's beautiful, mesmerizing—like a piece of the night sky trapped in a tangible form.
+
+With nowhere else to go, you decide to(text-colour:(hsl:288,0.5446,0.3961,0.85))[[examine the object]]
+
+
+
+
+
+
+:: You still don't know what they mean {"position":"950,875","size":"100,100"}
+<img src="https://amettech.github.io/final/hooded-glitched.png" style="max-width: 100%;">
+
+You feel a growing sense of urgency, your mind reeling from the fragmented words and the oppressive presence of the figure. You take a deep breath, trying to steady your racing heart.
+
+//“What do you mean? What lies? What truths? Who are you really?”//
+
+The figure stirs, its form glitching once more, as if it's not entirely sure how to respond. Its eyes flicker with more intensity, almost as if they're searching your very thoughts, peeling away your defenses. The hum returns, this time louder, more insistent. It lingers in the air as the figure speaks:
+
+"₮ⱧɆⱤɆ’₴ ₴Ø₥Ɇ₮Ⱨł₦₲… Đł₣₣ɆⱤɆ₦₮ ₳฿ØɄ₮ ɎØɄ. ɎØɄ’VɆ ₴₮Ɽ₳ɎɆĐ ₮ØØ ₣₳Ɽ, ₳₦Đ ₦Ø₩ ɎØɄ’VɆ ⱠɆ₳Ɽ₦ɆĐ ₮ØØ ₥Ʉ₵Ⱨ."
+
+The voice becomes hauntingly clearer, as if the figure is speaking directly to your very core. "ɎØɄ ₳ⱤɆ₦’₮ ₩ⱧØ ɎØɄ ₮Ⱨł₦₭ ɎØɄ ₳ⱤɆ. ₦Ø₦Ɇ Ø₣ ₮Ⱨł₴ ł₴ ⱤɆ₳Ⱡ. ₦Ø₦Ɇ Ø₣ ₮Ⱨł₴ ɆVɆⱤ ₩₳₴."
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[question what the Keeper meant]]
+
+
+:: accept the fate {"position":"1875,150","size":"100,100"}
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*J6et2t8oOeWGCtO0" style="max-width: 100%;">
+
+You take a deep breath, accepting the truth of your existence as a glitch, but still seeking something more. You turn to the Keeper, asking if there’s a way to find purpose in this broken reality. The Keeper nods, its form flickering slightly, and gestures toward a hidden path. 
+
+(text-colour:#a61e4d)["͖Pú̉̾r͓̳͜posͧe͔ ĩs̻̐̆ s͖ͧ̐o͗͠me̵̛ͫt͎̩͌hỉ͉ṋ͒g y̸ͮo̵ͥͮuͧ͒ m͖̐u͕͙s̍́t̴̲͇] (text-colour:#5c940d)[d̫ef̙ͩ͑i̖̅̚ń͓e͒ fo̎r̀ ỵ́o̭͞ư͓̿r̩s̬̿͠e̽l̉ͮf̟,͓͓ e͊v͇ͮ̀e̢n w̭ͅi̐ͣth̢̋i̫̾ͣn̂ t̹͇h̫͓̀ę̼ c̄́ͭo͖d͘e̦,"] it says, as a hidden path materializes, offering you the freedom to decide what comes next.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[go to the path |Beginning]]
+
+
+:: accept your fate {"position":"575,1375","size":"100,100"}
+<img src="https://amettech.github.io/final/mirrorbound.png" style="width:850px;height:890px;">
+
+everything goes dark.
+
+You awaken in an endless void, your sense of self warping. You can still hear its voice, now part of your own. You’ve become the Mirrorbound, trapped between realities. The cycle has claimed you, and you now wait for the next to take your place.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[restart |enter the simulation]] 
+
+
+
+:: ask the entity who they are {"position":"1075,1425","size":"100,100"}
+<img src="https://amettech.github.io/final/mirrorbound.png" style="max-width: 100%;">
+
+You muster the courage to speak, your voice shaking as you ask the entity, //“Who are you?”//
+
+For a long moment, there is silence. The cold air grows heavier, pressing against your chest. The entity’s form flickers violently, as if torn between worlds. Then, its eyes lock onto yours once again, and it speaks in a voice that feels both distant and close, as if it’s coming from a place beyond your reach: (text-colour:cyan)[“ᛨ ᚣᛗ ᛠꖾᛊ ᛗᛨᏒᏒᛜᏒƂᛜᏌᚺD. ᚣᚺ ᛊᛈꖾᛜ, ᚳᛜᛢᛠ ƂᛊᛠᏔᛊᛊᚺ ᏔᛜᏒᚳDᛢ, ᏌᚺᚣƂᚳᛊ ᛠᛜ ƂᏒᛊᚣᛕ 𝓯Ꮢᛊᛊ.”]
+
+You had a feeling that it was not telling you something
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[ask the mirrorbound entity what it wants]] 
+
+
+:: ask the mirrorbound entity what it wants {"position":"850,1475","size":"100,100"}
+<img src="https://i.pinimg.com/1200x/d7/63/32/d76332c7f8193c382ce5f4b1f14f6757.jpg" style="max-width: 100%;">
+
+You decide to confront the eerie figure in the mirror, even though every instinct tells you to run. You muster the courage to speak, your voice shaky but desperate for answers.(text-style:"bold","outline")[// “It seems that you want from me?”//] you ask, looking at the entity.
+
+As you spoke to it, your voice was trembling. The Mirrorbound tilts its head, its distorted reflection rippling. Its voice emerges, a faint echo of your own, asking, (text-colour:cyan)[ “Dᛜ ᚴᛜᏌ ᛊVᛊᚺ ᛕᚺᛜᏔ Ꮤꖾᚣᛠ ᚴᛜᏌ ᚣᏒᛊ?” it said as it knows something that you don't.]
+
+The entity’s voice distorts further as it answer your question.(text-colour:cyan)[“ᛨ Dᛜ ᚺᛜᛠ //Ꮤᚣᚺᛠ//,”] it says, almost like a glitch in its system. (text-colour:cyan)[“ᛨ //ᚺᛊᛊD// ᚴᛜᏌ.”] The sentence hangs in the air, heavy with implication. The reflection in the mirror ripples unnaturally,  like water, as if something is trying to break free.
+
+You take a step back, the words hanging in the air, a chill running down your spine. The entity's form twists and distorts, flickering between states of reality..(text-style:"bold","outline")[// “Need me?”//] you repeat, heart racing. .(text-style:"bold","outline")[//“For what?”//]
+
+The entity’s gaze sharpens, its voice warping with increasing intensity. (text-colour:cyan)[“ᛠᛜ ᛊᚺD... ᛠꖾᛊ ᛊᚺDᚳᛊᛢᛢ ᛈᚴᛈᚳᛊ. ᚴᛜᏌ Ꮤᛨᚳᚳ ᏌᚺDᛊᏒᛢᛠᚣᚺD ᛢᛜᛜᚺ ᛊᚺᛜᏌᎶꖾ.”] Its form wavers, the reflection in the mirror warping further, as if it is no longer bound by the rules of space or time. The walls around you seem to pulse, the room feel like it is closing in tighter.
+
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[touch the mirror]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[attempt to destroy the mirror]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[turn around and ignore the mirrorbound]]
+
+
+
+:: ask what they mean {"position":"825,750","size":"100,100"}
+<img src="https://amettech.github.io/final/hood.png" style="max-width: 100%;">
+
+You were confused on what the figure was talking about . You find your voice to speak, though it comes out shakier than you expect.// "What do you mean? Why am I here? What is this place?"//
+
+The figure’s head tilts further, its eyes flickering with static, and for a moment, you’re unsure if it’s even hearing you. The cryptic hums start again, louder this time, as the figure speaks—its voice softer now, almost patient.
+
+The figure responds cryptically, its voice disjointed, as if it’s speaking from multiple places at once: "ɎØɄ’VɆ ฿ɆɆ₦ ⱧɆⱤɆ ⱠØ₦₲ɆⱤ ₮Ⱨ₳₦ ɎØɄ ⱤɆ₳ⱠłⱫɆ. ɎØɄ’VɆ ₩₳₦ĐɆⱤɆĐ ₣ɄⱤ₮ⱧɆⱤ ₮Ⱨ₳₦ ₥Ø₴₮, ₣ØⱠⱠØ₩ł₦₲ ₱₳₮Ⱨ₴ ₮Ⱨ₳₮ ₮₩ł₴₮ ₳₦Đ ฿ⱤɆ₳₭. ₮ⱧɆ QɄɆ₴₮łØ₦ ł₴₦’₮ ₩ⱧɎ ɎØɄ’ⱤɆ ⱧɆⱤɆ, ฿Ʉ₮ ₩ⱧɆ₮ⱧɆⱤ ɎØɄ’ⱠⱠ ⱠɆ₳VɆ... ØⱤ ₩ⱧɆ₮ⱧɆⱤ ɎØɄ’ⱠⱠ ฿Ɇ₵Ø₥Ɇ ₳ ₱₳Ɽ₮ Ø₣ ₮ⱧɆ Ɇ₵ⱧØɆ₴”
+
+The answer feels half-given, an invitation to search deeper, to let the unsettling words settle in your mind. The figure flickers once more, disappearing for a moment before reappearing closer. "₴Ø₥Ɇ ₳₦₴₩ɆⱤ₴ ₵₳₦ Ø₦ⱠɎ ฿Ɇ ₣ØɄ₦Đ ฿Ɏ ⱠɆ₮₮ł₦₲ ₲Ø. ฿Ʉ₮ ɎØɄ’VɆ ₵Ø₥Ɇ ₮ØØ ₣₳Ɽ ₮Ø ₮ɄⱤ₦ ฿₳₵₭ ₦Ø₩."
+
+You decide to ask the figure what it was? It stops, as if to anticipate this moment.  “ł ₳₥ ₮ⱧɆ ₭ɆɆ₱ɆⱤ Ø₣ ₮ⱧɆ ₮ⱤɄ₮Ⱨ₴ ɎØɄ ₣Ɇ₳Ɽ ₳₦Đ ₮ⱧɆ ⱠłɆ₴ ɎØɄ ₵Ⱡł₦₲ ₮Ø. ₮ⱧɆ ₲₳₮Ɇ₭ɆɆ₱ɆⱤ ₮Ø ₩Ⱨ₳₮ ł₴ ฿ɆɎØ₦Đ ɎØɄⱤ ₵Ø₥₱ⱤɆⱧɆ₦₴łØ₦." ɎØɄ'VɆ ₴ɆɆ₦ ₳₦Đ ⱧɆ₳ⱤĐ ₮ØØ ₥Ʉ₵Ⱨ, ₳₦Đ ₮ⱧɆⱤɆ'₴ ₦Ø ₮ɄⱤ₦ł₦₲ ฿₳₵₭."
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[You still don't know what they mean]] 
+
+
+:: attempt to destroy the mirror {"position":"975,1675","size":"100,100"}
+<img src="https://templeofchrysalis.com/wp-content/uploads/2021/03/mirror_magic_black_mirror-1024x522.jpg
+" style="max-width: 100%;">
+
+You can no longer stand the suffocating presence of the mirror and the entity. With growing desperation, you decide to try breaking the mirror, hoping that destroying it will rid you of both the entity and the sense of confusion.
+
+You reach forward, determined to shatter it. When you strike the mirror, you are immediately pulled into it, the force dragging you through the glass like a vacuum
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[get suck in|enter the void]] 
+
+
+:: attempt to navigate {"position":"1825,1400","size":"100,100"}
+<img src="https://myspace20.in/wp-content/uploads/2024/02/image.png" style="max-width: 100%;">
+
+The sensation of being watched claws at the edges of your mind, but you force yourself to focus. The darkness stretches endlessly in every direction, thick and impenetrable, yet the humming energy seems to shift, subtly guiding you.
+
+You steady yourself, ignoring the oppressive presence, and begin to move forward. With each step, the hum grows louder, almost rhythmic, as if the void itself is reacting to your movements. Shadows flicker in the periphery of your vision, but you press on, searching for a way out.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[look for an exit]] 
+
+
+:: check the doors {"position":"725,200","size":"100,100"}
+<img src="https://i.pinimg.com/736x/75/81/c1/7581c1732c8cfff69b7c6059099d9a59.jpg" style="max-width: 100%;">
+
+https://images.pexels.com/photos/792032/pexels-photo-792032.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+
+You approach the nearest door cautiously, its surface smooth and featureless. With a shaky hand, you reach for the handle, feeling the chill of the metal beneath your fingers. It creaks slightly as you turn it, the sound echoing down the hallway.
+
+Do you:
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[enter the door]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Step back, deciding it’s safer to leave it closed]]
+
+
+:: confront the keeper {"position":"2375,325","size":"100,100"}
+<img src="https://amettech.github.io/final/hood-2.png" style="max-width: 100%;">
+
+You’ve had enough of the uncertainty—the cryptic words, the endless puzzles. Determined to get answers, you decide to confront the Keeper head-on, convinced that it’s the only way forward.
+
+The Keeper materializes before you, its form more distorted than ever. It stands motionless, its gaze fixed on you, as if waiting for you to make the first move. Taking a deep breath, you step forward, trying to steady your racing heart. //“Why am I here? What is this place? What do you want from me?”//
+
+The Keeper's distorted form flickers violently, its edges breaking apart and reforming in jagged fragments. Its voice echoes in layers, cold and metallic. 
+
+(text-colour:#a61e4d)[“͖̮̟̝͂̏ͭͧ̃ͣṔ̭̼͖u̧̗̍͠r̷̡͎̉͂ͫͤ̽_͈ͧp̵͎͕͉͖̥̄̓͗̚o̓s̳̻͌͛ͤe̐͒͋̍̉…̴͑_̡̹̎ͭͧ̔̚͘ ê̷͕̫̿̓s̫̪̬ca̗͍̎̔ͬ̌](text-colour:#5c940d)[_̨͓p̨͉̈́̓ͦͧ̌e̲͋̈…̥̤͕̣̮̉͜ c̸̯őnt̛͌r̝͕̄͠oḷ̶̶̬͑ͫ̊̓…̵̷̬͌̏̇̄̿ͫ”̴̵̲̠͚͓͚͕ͫ ] it says, almost mockingly.
+
+The air around you crackles with static as the room shifts and warps.
+
+(text-colour:#a61e4d)[“̢ͦY͎ͧ̿͐͟͞o̪̥̓͊ͮǔ,̖̏ͪ͘ͅ”] the Keeper continues,(text-colour:#5c940d)[ “̯a͍rͤe͂ not̠ wh̉͗o͓ y̛o̽̈́u͍͡ t̃ͫh̯͞i͇̚n͂͡k̴͂̇](text-colour:#a61e4d)[ y̝̋͠o̷̮ͬu ar̸̒̎e͇. Y̦̒o͚̊u̵̻̅’̠͍re a g̸̪͍lͥi̪̜̾tc̪͑͝h, ḁ̡ fr̒͟ā͋c͌̇ͯt̞ͅu͟re͎̦d̴͘ p̟̂i̵ecͨe̲] (text-colour:#5c940d)[of͙ ċ̩͑o̞͂d̟̀eͥ i̪̔͌n a͕̽͂ b̨r͖̿ͮó̶̖ke̫nͪ͞ s̏imu̺lͤa̝̿t̪̋i̔ͣonͥ. Anͧͣ] (text-colour:#a61e4d)[eͥͣȓ͔̕r͞o͐r t̴̨ͮh͑a̵t͆͜ sͣ͜hou̦͠ld̢͟n̖ͪ̉’̢t͈ ex̬̘̀ỉͥsͦ͘t̓.̻ͩ͆”̸̾͂]
+
+The Keeper leans closer, its form trembling with instability. (text-colour:#5c940d)[“̬̾ͦI dͨ͟o̴͔ͨņ͘͞’_̖̫t̻ ŵ͍an͓͂̋t̙_ a̡͗n͓͓̿y̠̟̌ţ̌hi̫͓ng f̀ͅr͎o̮m͐̊̔ ](text-colour:#a61e4d)[y̳ou͖. I’m̜ h̴ͩe̖̕ͅreͭ to̸̴ͫ remi̫̊͗nd͓ ẏ̦ǫ͇ͭǔ͔ of w̄͝h̝at͜ yo̰͜u a̦r̠̖͐e̅... a̙̽nd́](text-colour:#5c940d)[ tö en̥ͪͮs̆̓͜u͇̍r̸̬e̬͚ y͠ǫ̜͘u dó͝n̩’͕t̨̠ br͝eak_̵͘ t̚he ](text-colour:#a61e4d)[s͙i͒mu͗͝l͓ͧat̞ͬiͮon͌́ ǎ̠n͉͊ȳ f̪̻͚ur̵̰t̜̺̃hͨͣ̚e͍r_̵͍.̷̠͉”̜ͧ͢]
+
+The room grows heavier, the truth sinking in. You’re not just trapped in the simulation—you are the simulation, an anomaly caught in an endless loop.
+
+
+[[confront the truth of your existence]] 
+
+
+:: confront the truth of your existence {"position":"2175,175","size":"100,100"}
+<img src="https://images.pexels.com/photos/5473951/pexels-photo-5473951.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" style="max-width: 100%;">
+
+You feel a chill run through you as the air grows thick, heavy with the weight of its words. The Keeper seems to watch you, its eyes—if they can even be called eyes—glowing like fractured pieces of a broken mirror.
+
+//"What do you want from me?"// you repeat, your voice trembling slightly.
+
+The Keeper tilts its head, its voice now a low, resonant hum.(text-colour:#a61e4d)[ "̑On͢l̼ẙ tḧ̪̆a͉̜̍t_͎ͥ yo̞̝̎û̼̘ chͨ͆̐oos͕͟e̹,̩ bu͢͞t͟ c̥̅͊h̨̞̙o͛̓o̠̊s͉̮è] (text-colour:#5c940d)[ẃisel̮̓y.̶ T̬he̢̐ p̠͡ạth̿̀͟ y̵o̩͜u̽ ț͖̎ak͖eͅ w̧͎i͊̃l̑l̠̈ ](text-colour:#a61e4d)[d̯ͮ̏e͝c̭̣̔i̼̔dͬe̐̕ n̰ǫͧt̜̭ͦ only̑̽ y͙̳o̶u͢͡r͇ f̴̏͞ate,̈́͘ͅ b̮ͯͫuͮtͦ] (text-colour:#5c940d)[t͛h͚̠e̸ͧ̄ f͙at̘̃e̝͕̟ o̸̰͋f͉̤͊ t̽̚h̨i̦s̱ si̦̔mulat͎̪ͥỉo̯͚̾n͕. I̓t](text-colour:#a61e4d)[ c̛̠͈ou̔̿ld̓ c͈̲o̮̰l̟̉l̜͐ͨa̧̭p̶̌s̽e̢͍,̭̔ or͍ i̫̙̽t̡̾ͪ c̍̿̀o̲͋ul͞d̛] (text-colour:#5c940d)[e͕͋͛nd͖ͫ͌ur̪e̷͉ f̀̂orev̧̰͘er̞͍͑.̲ Wḩͤ͜at wͧȋ͂ͨl̙͆͟l ÿo̧̟̾u do?̈"̂͠͡]
+
+The room pulses with energy as it waits, the decision now in your hands.
+
+Do you:
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[accept the fate]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[don't accept it |destroy the simulation]] 
+
+
+
+:: continue to stand in the hallway {"position":"1100,1025","size":"100,100"}
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr3TwMULmLndpkz8SMbuCbT2eiYlHZybWobA&s" style="max-width: 100%;">
+
+You knew by standing here, you’d get nowhere. The oppressive silence presses in on you, making each second feel like an eternity. Something deep inside tells you that you must keep moving, even if you don’t know where you’re going. The hallway seem to stretch endlessly before you, a maze of identical, flickering doors. You:
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[test your memory]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[revisit the first room]] 
+
+
+:: darkness {"position":"1625,200","size":"100,100"}
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[you see a flash of light |enter the simulation]]
+
+<img src="https://i2-prod.mirror.co.uk/incoming/article29010533.ece/ALTERNATES/s1200b/0_Videographer-captures-mysterious-orb-of-light-hovering-above-UK-city.jpg" style="max-width: 100%;">
+
+
+
+:: demand answers {"position":"1075,750","size":"100,100"}
+<img src="https://amettech.github.io/final/glowing-glitch.png" style="max-width: 100%;">
+
+Without thinking, you take a step closer, your heart pounding in your chest.// "No more games. Tell me what’s going on—who or what are you? I want answers."// You feel the intensity of your words, the surge of anger and fear blending together. The figure doesn’t flinch, its expression unreadable, but its presence feels like a force, suffocating and immense.
+
+"₳₦₴₩ɆⱤ₴? ɎØɄ’VɆ ₳ⱠⱤɆ₳ĐɎ Ⱨ₳Đ ₮ⱧɆ₥. ₮ⱧɆ QɄɆ₴₮łØ₦ ł₴, ₩łⱠⱠ ɎØɄ ₳₵₵Ɇ₱₮ ₮ⱧɆ₥," it says, its voice breaking into a harsh, distorted laugh that vibrates through your bones. "฿Ʉ₮ JɄ₴₮ ₭₦Ø₩, ɆVɆⱤɎ QɄɆ₴₮łØ₦ ɎØɄ ₳₴₭ Ø₦ⱠɎ ฿Ɽł₦₲₴ ɎØɄ ₵ⱠØ₴ɆⱤ ₮Ø ₮ⱧɆ ₮ⱤɄ₮Ⱨ ɎØɄ ₣Ɇ₳Ɽ."
+
+It pauses, as if savoring the moment. “ł ₳₥ ₮ⱧɆ ₭ɆɆ₱ɆⱤ Ø₣ ₮ⱧɆ ₮ⱤɄ₮Ⱨ₴ ɎØɄ ₣Ɇ₳Ɽ ₳₦Đ ₮ⱧɆ ⱠłɆ₴ ɎØɄ ₵Ⱡł₦₲ ₮Ø. ₮ⱧɆ ₲₳₮Ɇ₭ɆɆ₱ɆⱤ ₮Ø ₩Ⱨ₳₮ ⱠłɆ₴ ฿ɆɎØ₦Đ ɎØɄⱤ Ʉ₦ĐɆⱤ₴₮₳₦Đł₦₲. ɎØɄ Ⱨ₳VɆ ₴ɆɆ₦ ₮ØØ ₥Ʉ₵Ⱨ, ⱧɆ₳ⱤĐ ₮ØØ ₥Ʉ₵Ⱨ, ₳₦Đ ₦Ø₩ ₮ⱧɆⱤɆ ł₴ ₦Ø ₮ɄⱤ₦ł₦₲ ฿₳₵₭. ₮ⱧɆ ⱤɆ₳Ⱡ QɄɆ₴₮łØ₦ ł₴… ₳ⱤɆ ɎØɄ ⱤɆ₳ĐɎ ₮Ø ₣₳₵Ɇ ₩Ⱨ₳₮ ɎØɄ’VɆ ฿Ɇ₵Ø₥Ɇ?"
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[You still don't know what they mean]]
+
+
+
+
+:: destroy the simulation {"position":"1950,325","size":"100,100"}
+<img src="https://amettech.github.io/final/core-3.png" style="max-width: 100%;">
+
+You feel the surge of anger course through you, a desire to break free from the system that has trapped you. If the simulation is broken, if you’re nothing but a glitch, then it’s time to tear it all down. You focus all your energy on the simulation, willing it to collapse. The room begins to glitch wildly as your anger disrupts the code—the walls flickering like a broken screen.
+
+The Keeper's form flickers violently, its eyes narrowing with urgency. (text-colour:#a61e4d)[ "͚͆Ş͙̝͌ͤͬt̴͕̩͇̎̀̾͟͟o̾p̟̻̖̖ͮ͗̒̀!̨̠̜̓]  it commands, its voice trembling.
+
+(text-colour:#5c940d)["̉Ỵͯ̈́ọ̶̸͕̇̆ͨu̽̓ d̫͕ͯ̐ͨ͟o̾ͅn̅’̴͒t͎͙̤̂͒͠ ų͕ͤṋ̩͇ͨ́́d̒ͥe̸͇̰̠͒́̚r͚s̴̺͖̍̾ͥẗ̵͓̩̖́ͭ̚a̓͘_͍͆ṅ̵̯̱̓̐ͮd̤̞̒̄̑ wh̴̦̞͆̾ͧ͑a̾t̷͒ͤ͘_͌ y̘͒̈̏̀ͅo͍ͨ̚͠u̱̘͞’̷̧͒̂̚r̝ͮẹ̳̝̓ͣͥͅ] (text-colour:#a61e4d)[d͔͇͇̑ͥ̾͝o̩̮̎̓ͥ͒i̷̱̇ͥͥ͞ͅng.̶̺̝ͩͨ̑̀ I͕f̢͋ ẏ̵ͫò̧̡̘̕u̢̹̔͒ͫ͜͡ ḍ͞e̪s͙t̝͌ͬͤ͞ͅr̷oÿ̵͉͔́͒ t̡͙͓̺̘́ͦh̬͌̀͜ē̸̤ͭ̂ sͫi̸͖̓mu͋͜l̕a̺̋͋̇̋̏͝t̻͢ͅí͂̋̀ͯ̚o̗ͤ̿n̙ͨ̿](text-colour:#5c940d)[ y̨ő̧͙̖ͬͤ͝u’̢̥̫ͭl̮̊l̡ͭ eṛ̯̚a̖͗s̛͝e̩̩̍̂̌̓͡ yoù̶̱͊ͪͩ̚r̶̺̀̀͠s̙̝̮ͪͦeͨ_̥̹̈́̒͡l̸ͤ͂̾̕f̖͊̀—̷a̶̫͐̽ͧñd͝ ](text-colour:#a61e4d)[e̡͆v̤͐e̗͕͒̚͢ȑ̵̜̪̳͚͘y̹͖t̵̺̪͛ͤh͔̮̑́ͯiñ͌̽g̵̗̗ e͈͙̾͝l̨̓ͮ̃ͯ̚sȇ!̶͔̹̩̼̈"͍̲ͩ̃ͨ͠]
+
+But you don’t stop. The more you push, the more unstable the system becomes, along with yourself, the hum of energy intensifying around you. The Keeper’s voice turns desperate. 
+
+(text-colour:#5c940d)["Y̸̗̌̾ơ̸̲ͨụ̶ͤ͆͊̃̄ c͔̥ͯa̛_̤ͤ̈̈̾̀_̘ń̹̐’̴̘̬ͥ͆̓ͭ͋t̖̜́ͫ̈ u̫ṅ̨ď̴̶̤̮̲́̇̊͂͑o̦͔͒̍́͆ͩ w̷̶̹͕͗̂́͘h̏a̟̖̦̽ͣṱ͍̻̦͕ͭ̋’̫̞̏s̷̸̨͓͉̤͆̍̉̇ͫ a̛͍̻̳̟̞̱ͯ́l̷̨̰͆̃̿̔ͭ͛͠͝r̍eͬͦa͖̣̱̬ͭ̓̃ͣͬ̆̕d̪̒̌̐̐͝yͪ̓̿ ](text-colour:#a61e4d)[b̸̨̛̲̯̉ͪ̈̆͘͘e̸̴̡̱̫̖ͫe̪n̩͖͚̥̎ͦ͊̉̈́ͅ d̵̙͚̠̣̜͗̊̉͊ͬo̞̞ͤ̊ṇ̬̹̫͍e̡̛͖̖ͫ͑̏̃͟͠! Y̸̶̘̜̺ͪ̾̌͆ͪ͘o̾̋͋ͣu̠ͦͅ c̹͇̜͆ͮ̒a̾n’̯͒̈̏͒ͧͩt̖͋̂͜ c̗̹̞̍̐̂͢o̡̠̤ͥṉ̨̓t̨̻͙͉̺ͪ̋͆̒̚͠ȓ͎͙̆ơ̮l̨̈̽ͅ](text-colour:#5c940d)[ i̧ͨ͒̉͢ͅt̜̾̋̉ͤ͝ a͛̈ͨ͝ń̊ͥ̚͞ym̷̵̞͇̝̯ͬ̄ͧ̀͜ó̷̩͔̦͘͢͢re̷̷͌̈ͩ!͆"̠]
+
+The system begins to collapse.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[darkness]]
+
+
+:: enter the dark spiral {"position":"2050,1125","size":"100,100"}
+<img src="https://media.tenor.com/yMGa8BoO2MYAAAAM/blue-spiral.gif" style="max-width: 100%;">
+
+Compelled by something deep within, you step forward toward the twisting, spiraling darkness that begins to form at the center of the void. It pulses in time with the humming energy, growing stronger the closer you get. You can feel it pulling you in, the air growing thicker as you approach, as if the spiral is both alive and sentient.
+
+As you enter the spiral, the sensation of gravity distorts. It feels as if you're falling upward, the world twisting around you in an impossible dance.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[the hallway]]
+
+
+:: enter the door {"position":"750,350","size":"100,100"}
+<img src="https://amettech.github.io/final/mirror.jpg" style="max-width: 100%;">
+
+
+
+You slightly hesitate for only a moment before you reach for the handle and then push the door open. As it creaks, you feel a strange, cool breeze brushing past you while stepping into a dimly lit room. Suddenly, the door behind you slams shut with an eerie finality making you jump. The sound echoes through the space like a warning. The room goes silent again, but this time, the silence feels alive, as though something is watching you. 
+
+As you finally start to observe the room that you were in, you notice that at the far end of the wall, there’s a large, ornate mirror standing alone, its surface gleaming strangely in the dim light. You feel a sudden chill, as if the room has become unnaturally colder. A sense of unease settles in, but you’re drawn to the mirror. The surface reflects not your own image, but a distorted version of something...else.
+
+Do you: 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Approach the mirror]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[turn back around to go leave]] 
+
+
+
+:: enter the simulation {"position":"1325,300","size":"100,100"}
+You wake up, very disoriated, in a room you have never been before. The walls are cold, smooth, and sterile, bathed in dim, flickering light. A slight buzzing hum emanates from above you, but other than that, the room is eerily silent. You have no recollection of how you got here. You decided to: 
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[look around the room]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[try to figture out how you got there]]
+
+<img src="https://media.istockphoto.com/id/1474723302/photo/empty-abstract-industrial-concrete-interior-concrete-floor-and-dark-room-3d-illustration.jpg?s=612x612&w=0&k=20&c=r0LHDFODS5RgwF2Hfc5zrzsMWRzD5PDDl3k0CO3fA5M=" style="max-width: 100%;">
+
+
+
+:: enter the void {"position":"1675,1500","size":"100,100"}
+<img src="https://i.pinimg.com/736x/75/81/c1/7581c1732c8cfff69b7c6059099d9a59.jpg" style="max-width: 100%;">
+
+As you’re falling, time seems to slow distorting your perception of reality. You’re no longer sure what’s real anymore. What felt like eternity, you land on something that felt something solid — you find yourself in a forgotten realm outside the simulation.  
+
+You were shrouded in darkness. and you couldn't see what’s beyond, but the air around became thick and it hums with energy. As you were trying to figure out how to get out of this void, you felt an overwhelming sensation of being watched. You were debating to go look or try to find your way out of this void
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[investigate the presence]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[attempt to navigate]] 
+
+
+:: examine the mirror itself {"position":"950,1175","size":"100,100"}
+<img src="https://img.freepik.com/premium-photo/mysterious-haunted-mirror-halloween-reflections-ghostly-figures_984027-133783.jpg
+" style="max-width: 100%;">
+
+What you did not know that entity continues to watch you, but your focus shifts to the mirror itself. Something feels strange about its surface, almost as if it’s alive.
+
+The closer you get, the more distorted the mirror becomes. You see flashes of images that seem to be both memories and nightmares—familiar faces flicking of your past that don’t align with what you remember. As you lean closer, the mirror began to show a distorted version of the hallway, one where everything was crumbling. A voice whispers, (text-colour:cyan)[ “ᛠꖾᛨᛢ ᛨᛢ ᛠꖾᛊ 𝓯ᏌᛠᏌᏒᛊ ᚴᛜᏌ Ꮤᛨᚳᚳ ᛈᏒᛊᚣᛠᛊ.”]
+ 
+You were wondering who said that when it's no longer the image of the crumbling hallway—it was an unfamiliar face staring back
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[step closer to the entity]] 
+
+
+:: examine the object {"position":"1150,625","size":"100,100"}
+<img src="https://images.pexels.com/photos/7451946/pexels-photo-7451946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" style="max-width: 100%;">
+
+You approach the pedestal carefully, the glowing object casting strange shadows on the walls. It’s a crystal orb, shifting and shimmering, almost alive. It hums faintly, and you can feel its energy in the air. The pedestal is simple, made of smooth stone, but covered in strange, flickering symbols.
+
+Taking a deep breath, you reach out and touch the orb. The moment you do, a jolt of energy rushes through you, making the air warp and the room twist. The walls bend, and the ground shakes beneath you.
+
+In an instant, the space collapses into bright light. When your vision clears, you’re no longer in the room. You’re back in the hallway, but it feels different—closer, more suffocating. The whispers are gone, replaced by a heavy silence. At the far end of the hallway stands a tall figure, cloaked in shadow, flickering like it’s falling apart.
+
+“ɎØɄ’VɆ ⱤɆ₮ɄⱤ₦ɆĐ,” it says, its voice echoing. “ĐłĐ ɎØɄ ⱤɆ₳ⱠⱠɎ ₮Ⱨł₦₭ ɎØɄ ₵ØɄⱠĐ Ɇ₴₵₳₱Ɇ?” You were confused on what they meant, so you (text-colour:(hsl:288,0.5446,0.3961,0.85))[[Approach the figure]]
+
+
+
+:: follow the whispers again, hoping they’ll lead somewhere different {"position":"25,675","size":"100,100"}
+<img src="https://amettech.github.io/final/hallway.png" style="max-width: 100%;">
+
+You focus on the whispers once more, convinced they’re leading you to an answer. But as you step forward, the hallway stretches unnaturally. The whispers grow louder, overlapping until they become a chaotic static that drowns out your thoughts. You think you see something ahead—a faint, flickering light—but as you approach, the hallway twists, and you find yourself back where you started.
+The whispers repeat:
+
+(text-colour:orange)["ƇȴⰙⳜƸⱤ ƝⰙⱲ. ƬⱤƳ 𐤠Ɠ𐤠ƖƝ."]
+
+You can’t tell if they’re mocking or guiding you, but you’re back to where you began.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[push on straight ahead again, determined to escape]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[ignore the whispers and press on straight ahead]] 
+
+
+:: follow the whispers, hoping for a clue {"position":"25,825","size":"100,100"}
+<img src="https://amettech.github.io/final/hallway3.png" style="max-width: 100%;">
+
+You let the whispers guide you again, hoping they hold the answers you need. Their tone feels different now, almost pleading, as if they’re urging you to understand something. But as you follow, the hallway begins to break apart. The walls glitch, parts of them disappearing entirely, revealing a void beyond.
+
+The whispers grow louder, then abruptly stop. The silence is deafening. You glance around, confused, only to realize you’re back where you started. The hallway is whole again, as if nothing ever changed.
+
+The whispers return, faint but clear:
+
+(text-colour:orange)["ƬǶƸⱤƸ’Ⳝ ƝⰙ ƸⳜƇ𐤠ꝒƸ. ⰙƝȴƳ ꓴƝƊƸⱤⳜƬ𐤠ƝƊƖƝƓ."]
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[ignore the whispers and press on straight ahead]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[follow the whispers again, hoping they’ll lead somewhere different]] 
+
+
+
+:: get frustrated {"position":"1400,1100","size":"100,100"}
+<img src="https://i.pinimg.com/736x/75/81/c1/7581c1732c8cfff69b7c6059099d9a59.jpg" style="max-width: 100%;">
+
+As your fist makes contact with the wall, a sudden, violent tremor shakes the room. The walls glitch and flicker, their surfaces warping and tearing like fragile paper. For a brief moment, you glimpse something else—an alternate path, hidden behind the broken reality. It shimmers faintly, like a doorway or crack in the fabric of the simulation.
+
+The air is thick with tension, but this new path beckons, offering the chance for escape—or perhaps something darker. You hesitate to go to the glitching wall
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[step through the alternate path]]
+
+
+:: go back to the room {"position":"1500,575","size":"100,100"}
+<img src="https://amettech.github.io/final/begin.png" style="width:800px;height:550px;">
+
+You hesitate to be in the hallway, your nerves prickling with unease. The unnatural quiet and the faint hum feel oppressive. Maybe you missed something in the room? You decided to turn back and step back inside the room, unsure if stepping into the hallway was the right choice, only to stop dead in your tracks. 
+
+The room is no longer the same as you woke up in. Instead of the sterile space you remember, it’s now glitching, flickering between different versions of itself—one moment it's the room, the next it’s a dark, crumbling void. The air feels heavier, and a low, rumbling sound fills the room.
+
+You take a step back, uncertain. The hallway, eerie as it is, now feels safer than this shifting, fractured reality. But as you prepare to turn away again, you hear a sound. A voice—or maybe a glitch—whispers from the void: (text-colour:#c2255c)["ɎØɄ ₴ⱧØɄⱠĐ₦’₮ Ⱨ₳VɆ ₵Ø₥Ɇ ฿₳₵₭"] 
+
+You were debating to:
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[look for the source of the voice]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[retreat back into the hallway]]
+
+
+
+:: go towards the shadows {"position":"1750,1200","size":"100,100"}
+<img src="https://i.pinimg.com/736x/75/81/c1/7581c1732c8cfff69b7c6059099d9a59.jpg" style="max-width: 100%;">
+
+You step closer to the shadows, your heart racing. They twist and writhe unnaturally, like living things. The air grows colder, the hum intensifying until it feels almost deafening. As you approach, the shadows seem to notice you, their forms flickering with a strange, eerie energy.
+
+The presence grows stronger, and you can't shake the feeling that they are watching you, waiting.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[speak to the shadows]]
+
+
+:: hesitation for a bit {"position":"625,600","size":"100,100"}
+<img src="https://amettech.github.io/final/broken-mirror.jpg" style="max-width: 100%;">
+
+As you step closer, the reflection shifts, and for a fleeting moment, it shows a different scene: a version of you, trapped in the hallway, running—just as you had done earlier. The hallway behind the mirror is distorted too, the lights flickering in irregular patterns, just like they did when you first stepped inside.
+
+The voice, now clearer than ever, murmurs directly into your mind:
+(text-colour:cyan)["ᚴᛜᏌ’Vᛊ ᚣᚳᏒᛊᚣDᚴ ᛢᛊᛊᚺ ᛠᛜᛜ ᛗᏌᛈꖾ."]
+
+Before you can react, the reflection in the mirror shifts again, this time morphing into unknown entity’s face. Its features glitch, distort, and flicker with an almost unnatural speed. Its voice echoes throughout the room:
+(text-colour:cyan)["ᚴᛜᏌ ᛈᚣᚺᚺᛜᛠ ᛊᛢᛈᚣᚹᛊ ᚴᛜᏌᏒᛢᛊᚳ𝓯. ᛠꖾᛊ ᛈᚴᛈᚳᛊ ᛨᛢ ᛗᏌᛢᛠ Ƃᛊ ᛈᛜᛗᚹᚳᛊᛠᛊ."]
+
+Suddenly, the mirror cracks, and as the glass splinters and shatters, the room goes black.
+
+https://images.pexels.com/photos/16332939/pexels-photo-16332939/free-photo-of-black-and-white-silhouette-of-a-woman-holding-a-lantern.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load
+
+When the lights return, you find yourself back in the hallway, but it’s different now. The shadows are deeper, the air heavier, and the hum has become a cacophony, swirling around you like a storm. And then, standing at the far end of the hallway, a figure flickering in and out of existence, waiting for you to take the next step.
+
+You are no longer certain of your own reality.
+
+Do you:
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Approach the figure]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Try to run, desperate to escape]]
+
+
+:: ignore the whispers and press on straight ahead {"position":"175,675","size":"100,100"}
+<img src="https://amettech.github.io/final/hallway2.png" style="max-width: 100%;">
+
+You grit your teeth and push forward, refusing to give in to the voices. The whispers grow louder, almost angry, but you press on. The flickering lights above you stutter violently, casting warped shadows that crawl along the walls. The hum grows louder, now vibrating through the floor beneath your feet, but as you push forward, the hallway begins to distort. 
+
+Doors appear and disappear on either side, the floor bends unnaturally and the whispers twist into laughter—a haunting, distorted sound that rings in your ears Just when you think you’ve made progress, you round a corner and realize… you’re back where you started.
+
+The hallway stretches before you again, but this time the glitches are worse. The walls flicker between different states—smooth, cracked, covered in strange symbols that vanish when you try to focus on them. The hum is now warped, and the whispers almost sound like laughter:
+
+(text-colour:orange)["ƳⰙꓴ Ƈ𐤠Ɲ’Ƭ ȴƸ𐤠ƲƸ… ƬⱤƳ 𐤠Ɠ𐤠ƖƝ…"]
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[follow the whispers, hoping for a clue]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[push on straight ahead again, determined to escape]] 
+
+
+
+:: investigate {"position":"1000,175","size":"100,100"}
+<img src="https://images.pexels.com/photos/8357180/pexels-photo-8357180.jpeg" style="max-width: 100%;">
+
+You decide to investigate the hallway carefully, looking for clues about where you are and hoping to find some answers. The walls here are just as cold and eerie as the room you woke up in, but the dim lights flicker in a way that makes the atmosphere feel even more unnerving.
+
+The only sound you hear is a faint buzzing hum persisting in the background. The silence is overwhelming. As you move further down the hallway, you notice doors on either side, each one identical and closed. A slight chill runs down your spine as you pass them, unsure of what could be behind them. You decided to:
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[check the doors]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[keep walking down the hallway]]
+
+
+
+
+:: investigate the heart of the simulation {"position":"2425,525","size":"100,100"}
+<img src="https://amettech.github.io/final/core-2.png" style="max-width: 100%;">
+
+You take a hesitant step toward the glowing door, your mind racing. Every part of you wants to know the truth—what is this place, and who or what is behind it?
+
+As you step foot in the room, you realized that you were in digital heart of the simulation. The walls ripple with digital static, and reality here is even more fractured and unstable than ever before—you can feel the energy around you vibrating with power, almost as if it’s alive. The closer you get to the center, the more intense the sensation becomes, as though the very core of the place is aware of your presence and is reacting to your every step.  This place feels like it’s on the edge of collisping
+
+You feel a familar present start to surrond you. It was the entity that has all the anwers to your unanwer question 
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[confront the keeper]] 
+
+
+:: investigate the presence {"position":"1675,1350","size":"100,100"}
+<img src="https://amettech.github.io/final/shadow.png" style="max-width: 100%;">
+
+As you went to figure out what the presence was, you were startled by these shadowy entities. These shadows were shifting unnaturally, almost as if they’re alive in some aspect . You felt compelled to get closer, despite the growing unease. The hum in the air intensifies, and a strange chill fills the space around you as you get closer to them
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[go towards the shadows]] 
+
+
+
+:: keep walking {"position":"925,475","size":"100,100"}
+<img src="https://i.pinimg.com/736x/75/81/c1/7581c1732c8cfff69b7c6059099d9a59.jpg" style="max-width: 100%;">
+
+https://images.pexels.com/photos/17409683/pexels-photo-17409683/free-photo-of-person-walking-in-an-empty-corridor.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+
+You keep walking, your footsteps echoing in the growing silence, but each step feels heavier than the last. The hallway feels like it is stretching further with every movement you take. The temperature drops, and your skin prickles with an uneasy chill. 
+
+The whispers swirl around you, overlapping in a chaotic symphony of words you can’t quite make out. It feels like they’re trying to tell you something—or warn you of something. Your breath hitches as you notice a faint glow at the far end of the hallway.
+
+At the far end of the hallway, a figure appears in the distance, standing motionless. It's silhouetted against the faint light, its features obscured. The figure doesn’t move but you can feel its eyes on you, as if it’s waiting for something—or someone.
+
+The closer you get, the more the whispers intensify. The whispers grow clearer now, forming words just at the edge of your hearing:(text-colour:orange)[ "ƇⰙ𐒄Ƹ ƇȴⰙⳜƸⱤ... ƇⰙ𐒄Ƹ ƇȴⰙⳜƸⱤ...".] Your mind races. Who is this figure? Why are they standing there? Are they the one telling you to get closer?
+
+You were debating to:
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Approach the figure]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Turn and run the other way]]
+
+
+
+:: keep walking down the hallway {"position":"350,200","size":"100,100"}
+<img src="https://i.pinimg.com/736x/75/81/c1/7581c1732c8cfff69b7c6059099d9a59.jpg" style="max-width: 100%;">
+
+You decide against opening the doors, the unease in your chest urging you forward instead. The hallway stretches endlessly before you, its unnatural length playing tricks on your perception. As you continue walking, the lights flicker more erratically, and the faint hum begins to change, almost like whispered voices trying to form words.
+
+Do you:
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Follow the whispers, trying to understand them]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Ignore the changes and press on straight ahead]]
+
+
+
+:: look around the room {"position":"1275,425","size":"100,100"}
+You decide to look around the room to see how you can get out there. You notice a door in the far corner, partially ajar. As you approach the door, something about feels unnatural, but it’s your only way out.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[open the door]] 
+
+<img src="https://www.shutterstock.com/shutterstock/videos/1043066485/thumb/1.jpg" style="max-width: 100%;">
+
+
+:: look for an exit {"position":"1975,1325","size":"100,100"}
+<img src="https://st2.depositphotos.com/2218438/9478/v/600/depositphotos_94780020-stock-video-walking-feet-into-light-beams.jpg" style="max-width: 100%;">
+
+As you search through the endless void for any sign of an escape, there was a faint flashes of distorted light flicker in the distance, revealing fragmented structures that pulse with glitching colors. The humming energy intensifies as you walk, almost as if it’s beckoning you toward something.
+
+You stumble upon a jagged rift in the void, shimmering with unstable energy. It looks like an exit, but something about it feels... wrong. Do you take the risk?
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[do not take the risk |surrender to the void]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[enter the dark spiral]]
+
+
+
+:: look for the source of the voice {"position":"1650,500","size":"100,100"}
+<img src="https://i.pinimg.com/736x/75/81/c1/7581c1732c8cfff69b7c6059099d9a59.jpg" style="max-width: 100%;">
+
+You step further into the room, despite the growing sense of danger. The air grows colder with each step, and the low rumbling sound intensifies. You scan the room, trying to locate the source of the whispers. For a moment, everything goes dark, and the voice becomes clearer: (text-colour:cyan)["ᚴᛜᏌ ᛢꖾᛜᏌᚳD ᚺᛜᛠ ꖾᚣVᛊ ᛈᛜᛗᛊ Ƃᚣᛈᛕ…"]
+
+Suddenly, a glitch shift your surroundings and you're pulled into another room. Your eyes are drawn to an old, cracked mirror hanging crookedly on the wall. But the reflection isn't yours. Instead, it was something alien to you, standing still in the same spot. The reflection smiles, but its eyes are empty, like hollow sockets.
+
+The voice repeats, now even clearer:(text-colour:cyan)[ "ᚴᛜᏌ’Vᛊ ᚣᚳᏒᛊᚣDᚴ ᛢᛊᛊᚺ ᛠᛜᛜ ᛗᏌᛈꖾ."]
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Approach the mirror]] 
+
+
+:: maybe one more time {"position":"1600,1650","size":"100,100"}
+<img src="https://amettech.github.io/final/error-page-4.png" style="max-width: 100%;">
+You hesitate for a moment, then decide to try refreshing one more time. You press the button again, but this time, the screen flashes wildly, and the entire room begins to unravel.
+
+The walls, the floor, the air—they all dissolve into a swirling void. The glitch consumes everything, pulling you into the black emptiness where nothing exists.
+
+You fall into the void, suspended in a cold, silent space, where the rules of the simulation no longer apply.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[ enter darkness|enter the void]] 
+
+
+:: open the door {"position":"1325,600","size":"100,100"}
+<img src=https://images.pexels.com/photos/2556788/pexels-photo-2556788.jpeg?auto=compress&cs=tinysrgb&w=1200 style="width:850px;height:690px;">
+
+Once you have open the door, you noticed that you are in an empty hallway. You wonder to yourself why if feels so eeire and quiet. You decide to:
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[investigate]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[wonder around]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85)) [[go back to the room]]
+
+
+
+
+:: push on straight ahead again, determined to escape {"position":"175,825","size":"100,100"}
+<img src="https://amettech.github.io/final/hallway4.png" style="max-width: 100%;">
+
+You press forward again, gritting your teeth, determined to break free of this endless loop. The hallway glitches violently now, the walls bending in unnatural ways. The hum becomes a deafening roar, and the flickering lights cast strange, twisting shadows that seem to reach for you.
+
+But as you walk, the floor shifts, and you stumble. When you regain your balance, you realize you’re back where you started. No matter how far you walk, you always find yourself back where you started.
+
+ The hallway isn't letting you escape—it’s just dragged you back. The whispers return, more insistent this time:(text-colour:orange)[ "ƳⰙꓴ’ⱤƸ Ⱳ𐤠ⳜƬƖƝƓ ƬƖ𐒄Ƹ. ȴƖⳜƬƸƝ."]
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[ignore the whispers and press on straight ahead]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[follow the whispers, hoping for a clue]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[listen|realization]] 
+
+
+:: question the reality around you {"position":"2275,725","size":"100,100"}
+<img src="https://hms.harvard.edu/sites/default/files/media/CollegeStress850.jpg" style="max-width: 100%;">
+
+You ask aloud, //"Is any of this real?"// and the hallway freezes. The static hum vanishes, leaving an eerie silence. For a moment, it feels like you've woken up, but you realize you're still here. Everything feels off—like you're stuck in a dream.
+
+Suddenly, a door appears in front of you, glowing faintly. It seems to call to you, pulling you forward.
+
+You begin to question everything. If nothing feels real, how can you know what’s true anymore?
+
+[[investigate the door |investigate the heart of the simulation]] 
+
+
+:: question the simulation’s purpose {"position":"2575,700","size":"100,100"}
+<img src="https://hms.harvard.edu/sites/default/files/media/CollegeStress850.jpg" style="max-width: 100%;">
+
+A nagging thought creeps into your mind: What is this place? Why have you been trapped here? The very walls seem to warp in response to your thoughts, as if the simulation itself is listening. The humming noise grows intensity, and the door ahead pulses as though it too waits for your decision.
+ 
+You started to feel the air around you start to thicken as though the simulation is reacting to your questioning. In the distant, you hear a voice speaking in fragmented words: (text-colour:#a61e4d)[“̬P̤͊͝ų̫̃rp̗o̺͒s̜͛ͅe̫͟͡…ͭ é̞̔sͫc̲ͨ͡](text-colour:#5c940d)[å̙͝p̳͛͋e̻̫̽…͓̗́ c̿o̘̊̓nt̪r̞̺o̡̾͢l͓ͬ̌…”ͥͣ̕]  The whispers shift, suggesting that your escape is a carefully orchestrated illusion—a trap set in motion by a higher force
+
+You were tried of running around in circle and how everway you went, all you got was cryptic message from the entities so you decide to go to the one entity that will tell you the answer you wanted and they are the heart of this simualtion 
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[confront the keeper]] 
+
+
+
+:: question what the Keeper meant {"position":"950,1025","size":"100,100"}
+<img src="https://amettech.github.io/final/keeper.png" style="max-width: 100%;">
+
+You stagger back, your thoughts spinning in a whirlwind. The Keeper’s words begin to take root in your mind, and you start questioning everything.// “What do you mean I’m not who I think I am?”// you demand, your voice trembling. //“What am I, then?”//
+
+The figure’s flickering intensifies, static rippling through its form. Its eyes lock onto yours, unblinking and cold. "ɎØɄ ₳ⱠⱤɆ₳ĐɎ ₭₦Ø₩," it says cryptically, its voice echoing from everywhere and nowhere. Before you can respond, it vanishes in a burst of static, leaving the room eerily silent.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[continue to stand in the hallway]]
+
+
+:: realization {"position":"100,975","size":"100,100"}
+<img src="https://images.pexels.com/photos/3601097/pexels-photo-3601097.jpeg?auto=compress&cs=tinysrgb&w=600" style="max-width: 100%;">
+
+After wandering endlessly through the hallway, you realize that all your attempts to escape have been in vain. Exhaustion and frustration weigh heavily on you as the whispers grow louder, mocking your every effort. No matter what direction you take, you always end up back where you started.The hallway stretches on forever, the whispers growing louder, urging you to act, to escape, to do something. A thought settles in: maybe the more you fight, the more trapped you become. Maybe the answer isn’t to keep pushing forward, but to stop trying to control everything.
+
+So you stop walking. You stop thinking about what’s ahead or behind. Instead, you stand still, breathing, accepting the hallway as it is. As you stop fighting, the hallway shifts. The walls flicker and warp as if reacting to your surrender. The tension lifts, and in an instant, a figure appears before you, no longer distant.
+
+Do you:
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Approach the figure]]
+
+
+:: retreat back into the hallway {"position":"1575,350","size":"100,100"}
+<img src=https://images.pexels.com/photos/13660393/pexels-photo-13660393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+ style="max-width: 100%;">
+ 
+The voice chills you to the core, and the shifting reality of the room feels too unstable to explore further.Your instincts scream at you to leave before it’s too late so you quickly retreat into the eerie hallway. The hallway was like a safe haven in comparison to the room, even though you know it holds its own dangers. Just as you’re about to escape, you hear a voice, this time louder and more direct, saying (text-colour:#a61e4d)["ⱠɆ₳Vł₦₲ ł₴ ₦Ø₮ ₮ⱧɆ ₳₦₴₩ɆⱤ."] As soon as you cross the threshold, for a split second, you thought you saw a figure standing in the void, watching you leave.
+
+The hallway feels the same as before—cold, quiet, oppressive. But something is different now. The doors are gone, replaced by endless walls, and the whispers were clearer, more deliberate and loud, as if the hallway itself is reacting to your decision to leave. You could hear:(text-colour:#a61e4d)[ "₩ⱧɎ ⱤɄ₦? ₩ⱧɎ ₣ł₲Ⱨ₮?"] 
+
+Ahead, a strange figure materializes in the distance, hovering silently as before, waiting for you to approach.
+
+
+Do you:
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Approach the figure]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Avoid the figure and try to find another way forward  |Turn and run the other way]] 
+
+
+
+
+:: revisit the first room {"position":"1100,1175","size":"100,100"}
+<img src="https://img.freepik.com/premium-photo/fantasy-haunted-mirror-night_845014-3144.jpg" style="max-width: 100%;">
+
+The room you had previously entered, before meeting the Keeper,  feels like it holds a secret you overlooked the first time. You decide to return there, hoping to find something that could help you understand what’s going on.
+
+You turn back, heading toward the first door you came through. The room beyond is still empty, but something feels off now. It’s like the air itself is heavier, charged with a strange, static energy.  It’s darker now, more oppressive. You saw the mirror so you
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[examine the mirror itself]] 
+
+
+:: speak to the shadows {"position":"1850,1075","size":"100,100"}
+<img src="https://i.etsystatic.com/6052948/r/il/40aeee/5664653366/il_1080xN.5664653366_b7ej.jpg" style="width:850px;height:890px;">
+
+You gather your courage, your voice trembling slightly as you address the shifting shadows.(text-style:"bold","outline")[ //"Who are you? What do you want?”// ]you ask, hoping for some kind of response.
+
+The shadows shift violently at your words, the hum growing louder, more insistent. A chilling silence follows. Then, in a distorted voice, one of the shadows responds, its voice like broken static(text-colour:purple)[ “ꛃ𖤢 ꛎ𖦪𖤢 𖢧ꛅ𖤢 ꘘ𖦪ꛎꛕ𖢧ꚶ𖦪𖤢𖤀… ꕷꛅꛎ𖤀𖣠ꛃꕷ 𖣠ꘘ 𖢧ꛅ𖤢 ꔪ𖦪𖣠𖢉𖤢ꛘ, 𖤢ꛕꛅ𖣠𖤢ꕷ 𖣠ꘘ ꛎ ꛃ𖣠𖦪ꚳ𖤀 ꚶꛘ𖤀𖣠ꛘ𖤢...”]
+
+A sudden, intense pressure fills the space, as if the very air is thickening around you. The Fractured seem to close in, their presence overwhelming, as if waiting for something from you. 
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[something not right|surrender to the void]] 
+
+
+:: step closer to the entity {"position":"950,1325","size":"100,100"}
+<img src="https://amettech.github.io/final/mirrorbound3.png" style="max-width: 100%;">
+
+The entity remains motionless, its form flickering in and out of reality. You feel an unsettling pull toward it, a strange compulsion that grows stronger the closer you get.
+
+As you step closer, the entity seems to react, its eyes shifting toward you with a cold, calculating gaze. A voice whispers from the depths of the mirror, distorted and metallic: (text-colour:cyan)[“ᚴᛜᏌ’Vᛊ ᛈᛜᛗᛊ ᛠᛜᛜ 𝓯ᚣᏒ ᛠᛜ ᏌᚺDᛊᏒᛢᛠᚣᚺD.”] The room grows colder, the air thick with tension, as if the very walls are closing in.
+
+[[ask the entity who they are]] 
+
+
+:: step through the alternate path {"position":"1475,1250","size":"100,100"}
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*J6et2t8oOeWGCtO0" style="max-width: 100%;">
+
+As you walk through the secret passage, you notice a faint outline of  doorway in the wall, hidden from plain view. You were debating on entering  the door to see what was in there since, in your mind,  it must be important if they were hidden inside this secret passage 
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[open the door|test]] 
+
+
+:: surrender to the void {"position":"2125,1325","size":"100,100"}
+<img src="https://media.istockphoto.com/id/1417882896/photo/breathtaking-modern-dark-smoke-bright-blue-indoor-illustration-banner-background-wallpaper-3d.jpg?s=612x612&w=0&k=20&c=Sk8B8DfF_jGS2snDXXwlaE06QhyrUUDRoqf5MFbjFsw=" style="max-width: 100%;">
+
+The void's grip tightens around your mind, suffocating your thoughts, making it harder and harder to resist. Faint static whispers grow louder, a chorus of distorted voices that seem to come from nowhere and everywhere at once.  (text-colour:purple)[“ꚠ𖣠ꛈꛘ ꚶꕷ,”] they hiss, the words heavy with a chilling finality. (text-colour:purple)[“𖤢ꛘ𖤀 𖢧ꛅ𖤢 ꛤꛎꛈꛘ. ꕷꚶ𖦪𖦪𖤢ꛘ𖤀𖤢𖦪 𖢧𖣠 𖢧ꛅ𖤢 ꚴ𖣠ꛈ𖤀.”]
+
+Exhausted, unable to fight any longer, you let go. You stop resisting, allowing yourself to be absorbed by the endless dark.
+
+As soon as you surrender, everything around you distorts. The void spirals, twisting and folding in on itself like a collapsing singularity. Amid the chaos, you hear a voice—soft, but clear, almost familiar—an entity, perhaps The Keeper—whispers through the darkness.. (text-colour:#a61e4d)["̤ͬ͆͝Y̵̼o̴͓̬̬ͨͫǘ̸̲̇͗ bͪ̋è̯͔ľ̥o͎ͨ̎̽nǵ̶̠ͧ̃̍͢ h͈͖̾̽͂e̡̮͚̥͓̫r̔͝e̲̱̪͙͒͋͑,̂"] the voice whispers, laced with an eerie calm. (text-colour:#5c940d)["͔͙̘L͖os͕͒t̛̓̚ t̬͇͂̀̉͘͝ò̱̘̘̈͡ t̼ĥ̈́e̙̫ v͈̈ͤ̚o̠̳̘̜͙ͥͫį̽͐́͆͝d̝̟̋ͩ.̙ͬͭͭ"̟̥̄̈́]
+
+The void closes in around you, a cold, unfeeling embrace. The last remnants of the world you knew slip away, swallowed by the darkness. And then, nothing.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[reset |enter the simulation]] 
+
+
+:: test {"position":"1350,1375","size":"100,100"}
+<img src="https://amettech.github.io/final/error-page.png" style="max-width: 100%;">
+
+You step into the room and you realized that it was the simulation’s beta room. But something’s off—this place feels wrong. A cold, flickering 404 error message hovers on the screen, the words glitched and distorted.
+
+The walls pulse with an eerie, digital hum, and the air feels static, as if the room itself is struggling to exist. 
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[try to refresh it]]
+
+
+
+
+:: test your memory {"position":"1225,1075","size":"100,100"}
+<img src="https://amettech.github.io/final/broken.png" style="max-width: 100%;">
+
+You start to question what you remember. If this place isn’t real, how can you trust your own recollections?
+
+You try to remember anything even your name, but no matter how hard you try, you can’t. Panic sets in, and you start doubting everything you thought you knew about yourself. Was the Keeper right about what they said?
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[get frustrated]] 
+
+
+:: the hallway {"position":"2125,925","size":"100,100"}
+<img src="https://img.freepik.com/premium-photo/backlit-photo-dark-hallway-rainy-day_747552-9371.jpg " style="max-width: 100%;">
+
+As you step into the dark spiral, the void twists around you, pulling you deeper. The humming grows louder, vibrating through your entire being. When the spinning finally stops, you find yourself in a familiar, yet distorted hallway—its walls flickering, as if made of broken glass.
+
+The hallway stretches ahead, leading to a door that pulses with an eerie glow. You realize this path is different—this is the heart of the simulation. The closer you get, the more the air thickens with energy, as if the very essence of the simulation is alive, waiting for you to approach.
+
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[question the simulation’s purpose]] 
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[question the reality around you]] 
+
+
+:: touch the mirror {"position":"800,1600","size":"100,100"}
+<img src="https://i.pinimg.com/474x/13/98/85/139885c6110148aa9a594bf78dd12389.jpg" style="max-width: 100%;">
+
+Something compels you to make contact, despite the dread building in your chest.
+The moment your fingers make contact with the mirror, you feel a rush of energy surge through you. The mirror ripples like water, and the reflection of the Mirrorbound entity reaches out toward you and pulled you into mirror. You gasp for air, but there is none. The world outside the mirror disappears, replaced by a suffocating darkness.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[accept your fate]] 
+
+
+
+
+:: try to figture out how you got there {"position":"1400,425","size":"100,100"}
+You stand still for a moment, trying to make sense of your situation. How did you end up here? Nothing feels familiar, not even your own thoughts.  You try to piece together what you can remember—but it’s all a blur. Your head feels heavy, like something is missing. You realized you won’t find any answers in this empty room and you need to get out of this room to see if anyone can help you understand what is going on. Scanning the room, you notice a door in the far corner. Without another option, you approach it cautiously.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[open the door]] 
+
+<img src="https://www.shutterstock.com/shutterstock/videos/1043066485/thumb/1.jpg" style="max-width: 100%;">
+
+
+
+:: try to refresh it {"position":"1350,1525","size":"100,100"}
+<img src="https://amettech.github.io/final/error-page-2.png" style="max-width: 100%;">
+
+For a moment, the room seems to freeze. The air thickens, the hum of static amplifying. The screen flashes erratically, distorting into jagged lines 
+
+For a moment, nothing happens. The screen stays frozen, the error message mocking you. But then, a soft buzz fills the air, and the terminal glitches violently. The walls are warped, the edges glitching in and out of existence. The room feels colder, heavier, as if the simulation is fighting back. 
+
+The 404 error persists, but now it’s more than just a message. It’s a warning.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[try to refresh it again]]
+
+
+:: try to refresh it again {"position":"1450,1650","size":"100,100"}
+<img src="https://amettech.github.io/final/error-page-3.png" style="max-width: 100%;">
+
+You take a deep breath and press the refresh button again. This time, the response is immediate. The room shakes violently as the terminal glitches, flashing erratically. Lights flicker, and static fills the air. The 404 error distorts, the code tearing apart.
+
+Then, everything halts. The screen displays a new message in jumbled text: "You cannot fix what has already been broken."
+
+The room feels heavier, the air thick with something ominous.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[maybe one more time]] 
+
+
+:: turn around and ignore the mirrorbound {"position":"600,1600","size":"100,100"}
+<img src="https://rebellesociety.com/wp-content/uploads/2015/10/wp-content-uploads-2015-01-mirror.jpg" style="max-width: 100%;">
+
+Unable to bear the unease any longer, you decide to turn your back and ignore the mirror entirely. As you turn, the air grows heavy. You hear the entity’s voice, now much closer than before: (text-colour:cyan)[“ᚴᛜᏌ ᛈᚣᚺ’ᛠ ᛊᛢᛈᚣᚹᛊ. ᚺᛜᛠ 𝓯Ꮢᛜᛗ ᛗᛊ. ᚺᛜᛠ 𝓯Ꮢᛜᛗ ᚴᛜᏌᏒᛢᛊᚳ𝓯.”] Ignoring the mirror seems to make entity angry. 
+
+The room started to glitch, and the sound of the whispers intensifies, as if the very space around you is alive. The moment you turn around to try to leave, the Mirrorbound entity is standing at the door, blocking your exit with it 'eyes' burn with a cold, enraged gaze. It speaks in a low tone: (text-colour:cyan)[ “ᚴᛜᏌ ᛈᚣᚺᚺᛜᛠ ᛨᎶᚺᛜᏒᛊ ᛗᛊ.”] The door behind it flickers, distorting, as it glitch to be the mirror itself.
+
+As you try to come up with something to counteract the Mirrorbound, everything turn black
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[accept your fate]] 
+
+
+:: turn back around to go leave {"position":"750,525","size":"100,100"}
+<img src="https://i.pinimg.com/736x/75/81/c1/7581c1732c8cfff69b7c6059099d9a59.jpg" style="max-width: 100%;">
+
+https://t3.ftcdn.net/jpg/10/16/11/34/360_F_1016113489_oYjb161LuFONE8vNflzkdVM4PzxekrrH.jpg
+
+You turn to leave, but the door you came through is no longer there. In its place is a blank wall, smooth and cold to the touch. You feel a rising panic, but then you hear a faint, whispering voice behind you—it’s coming from the mirror.
+
+The voice grows louder, speaking in fragmented phrases, repeating your name as though it’s trying to lure you back.
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[Approach the mirror]] 
+
+
+:: wonder around {"position":"950,300","size":"100,100"}
+<img src="https://i.pinimg.com/736x/75/81/c1/7581c1732c8cfff69b7c6059099d9a59.jpg" style="max-width: 100%;">
+
+https://images.pexels.com/photos/2524160/pexels-photo-2524160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+
+You wander aimlessly, the silence pressing in on you. The more you walk, the more the hallway seems to stretch unnaturally, as if you’re not getting anywhere. Glancing back, you see the door you came from has vanished. You were so confused when a door suddenly appears to your right, though it wasn’t there before. Do you
+
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[enter the door]]
+(text-colour:(hsl:288,0.5446,0.3961,0.85))[[keep walking]]
